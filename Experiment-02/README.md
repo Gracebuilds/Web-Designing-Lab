@@ -1,0 +1,2 @@
+# Experiment 02 — Personal Portfolio
+Responsive personal portfolio using HTML and CSS. Open `index.html` in a browser. The contact form demonstrates front-end validation and a confirmation alert; it does not send email.
