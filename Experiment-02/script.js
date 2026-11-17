@@ -1,0 +1,1 @@
+document.getElementById('contact-form').addEventListener('submit',function(event){event.preventDefault();document.getElementById('form-status').textContent='Thank you! Your form fields were validated successfully. This demo does not send email.';this.reset();});
