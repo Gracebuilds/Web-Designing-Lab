@@ -1,0 +1,2 @@
+# Experiment 03 — Dynamic To-Do List
+Add tasks, mark them completed, and delete them using JavaScript DOM manipulation. Open `index.html` in a browser. Tasks are kept in memory and reset on page reload.
