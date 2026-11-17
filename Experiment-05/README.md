@@ -1,0 +1,2 @@
+# Experiment 05 — Weather Application
+Uses the OpenWeather Current Weather API with Fetch. Create an API key at https://openweathermap.org/api and set it in `script.js` as `API_KEY`. **Do not commit a real key to this public repository.** For a public deployment, use a backend proxy or another secure key-management approach. The app will show an instruction until a key is configured.
