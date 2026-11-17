@@ -1,0 +1,2 @@
+# Experiment 04 — SEO and Accessibility
+Demonstrates a descriptive page title, meta description, semantic elements, heading hierarchy, skip link and visible keyboard focus. Open `index.html` and test navigation with the keyboard.
